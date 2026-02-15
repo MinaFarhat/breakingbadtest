@@ -1,16 +1,27 @@
-# breakingbad
+# BreakingBadTracker
 
-A new Flutter project.
+BreakingBadTracker is a Flutter application for tracking episodes, characters, and events from the popular TV series *Breaking Bad*. The project demonstrates practical usage of **NoSQL databases** and **API integration**, providing an interactive and efficient way to manage and display series data.
+
+## Features
+
+- View all episodes and seasons of Breaking Bad
+- Browse character details and biographies
+- Search and filter episodes or characters
+- Data stored locally using NoSQL for fast access
+- Dynamic fetching of data via RESTful API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter and demonstrates integration with external APIs and NoSQL databases.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed
+- Dart
+- An IDE like VS Code or Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/MinaFarhat/BreakingBadTracker.git
